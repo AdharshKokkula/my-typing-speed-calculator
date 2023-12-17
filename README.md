@@ -1,1 +1,2 @@
-# my-typing-speed-calculator-
+# my-typing-speed-calculator
+
