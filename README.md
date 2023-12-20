@@ -34,21 +34,27 @@ Clone the Repository:
 
 
 Copy code
-git clone https://github.com/your-username/typing-speed-calculator.git
 
-Open index.html:
+git clone [https://github.com/your-username/typing-speed-calculator.git](https://github.com/AdharshKokkula/my-typing-speed-calculator/)
+
+Open index.html: 
+
 Open the index.html file in your web browser to start using the Typing Speed Calculator.
 
 Fetch Random Quotation:
+
 On page load, a random quotation is fetched and displayed in the HTML paragraph element with id quoteDisplay.
 
 Start Typing:
+
 Enter the quoted text in the HTML textarea element with id quoteInput and click the HTML button with id submitBtn to check your typing speed.
 
 Success or Error Message:
+
 Based on whether the typed text matches the quotation or not, a success or error message is displayed in the HTML paragraph element with id result.
 
 Reset and Fetch New Quotation:
+
 Click the HTML button with id resetBtn to reset the timer, fetch a new random quotation, and clear the input.
 
 
