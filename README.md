@@ -52,15 +52,6 @@ Reset and Fetch New Quotation:
 Click the HTML button with id resetBtn to reset the timer, fetch a new random quotation, and clear the input.
 
 
-Certainly! Here's a sample README text for your Typing Speed Calculator project:
-
-Typing Speed Calculator
-Welcome to the Typing Speed Calculator project! ⌨️🚀
-
-About
-This project is a Typing Speed Calculator built using HTML, CSS, and JavaScript. It not only allows you to test and improve your typing speed but also fetches a random quotation from https://apis.ccbp.in/random-quote to add an additional element of challenge and learning. The project features a timer, result display, and the ability to reset and fetch a new random quotation.
-
-
 Features
 ⏱ Real-time Timer: Measure your typing speed with a real-time timer in seconds.
 📜 Random Quotations: Fetch a random quotation to type and challenge yourself.
