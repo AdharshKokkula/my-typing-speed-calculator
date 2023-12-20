@@ -35,7 +35,7 @@ Clone the Repository:
 
 Copy code
 
-git clone [https://github.com/your-username/typing-speed-calculator.git](https://github.com/AdharshKokkula/my-typing-speed-calculator/)
+git clone https://github.com/AdharshKokkula/my-typing-speed-calculator/
 
 Open index.html: 
 
